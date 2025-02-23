@@ -1,1 +1,1 @@
-# PayMyBuddy
+# PayMyBuddy app
