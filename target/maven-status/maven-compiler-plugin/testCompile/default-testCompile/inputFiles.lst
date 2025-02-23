@@ -1,0 +1,10 @@
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/repository/BankAccountRepositoryIT.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/service/BankAccountServiceTest.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/repository/ConnectionRepositoryIT.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/service/ConnectionServiceTest.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/repository/TransactionRepositoryIT.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/service/UserServiceIT.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/service/UserServiceTest.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/PayMyBuddyApplicationTests.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/service/TransactionServiceTest.java
+/home/ubuntu/Jenkins-mini_projet/src/test/java/com/paymybuddy/paymybuddy/repository/UserRepositoryIT.java
